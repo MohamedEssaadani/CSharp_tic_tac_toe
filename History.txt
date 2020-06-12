@@ -1,0 +1,32 @@
+﻿Game Date is : 6/12/2020 11:15:30 PM
+Jerry Played: [2,1]
+Tom Played: [1,1]
+Jerry Played: [2,0]
+Tom Played: [2,2]
+Jerry Played: [1,0]
+Tom Played: [1,2]
+Jerry Played: [0,0]
+Winner is : Jerry
+Jerry Played: [2,1]
+Tom Played: [2,0]
+Jerry Played: [2,2]
+Tom Played: [1,1]
+Jerry Played: [1,2]
+Tom Played: [0,2]
+Winner is : Tom
+Game Date is : 6/12/2020 11:16:27 PM
+Game Date is : 6/12/2020 11:22:17 PM
+Jerry Played: [2,0]
+Jerry Played: [2,0]
+Jerry Played: [2,0]
+Tom Played: [2,1]
+Jerry Played: [1,1]
+Game Date is : 6/12/2020 11:23:12 PM
+Jerry Played: [2,1]
+Tom Played: [2,0]
+Jerry Played: [1,1]
+Tom Played: [1,0]
+Jerry Played: [0,0]
+Tom Played: [0,1]
+Jerry Played: [2,2]
+Winner is : Jerry

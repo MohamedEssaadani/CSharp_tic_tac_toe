@@ -1,0 +1,4 @@
+C:\Users\Ripper\source\repos\Tic_tac_toe_csharp\obj\Release\Tic_tac_toe_csharp.csprojAssemblyReference.cache
+C:\Users\Ripper\source\repos\Tic_tac_toe_csharp\obj\Release\Tic_tac_toe_csharp.Form1.resources
+C:\Users\Ripper\source\repos\Tic_tac_toe_csharp\obj\Release\Tic_tac_toe_csharp.Properties.Resources.resources
+C:\Users\Ripper\source\repos\Tic_tac_toe_csharp\obj\Release\Tic_tac_toe_csharp.csproj.GenerateResource.cache
